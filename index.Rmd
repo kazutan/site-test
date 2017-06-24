@@ -5,6 +5,13 @@ title: test site
 ## aaa
 adfjakdlsf
 
+```{r}
+library(ggplot2)
+ggplot(iris, aes(Sepal.Length, Sepal.Width)) +
+  geom_point()
+```
+
+
 ## sgasda
 
 dfadsfajsdfjafoi
