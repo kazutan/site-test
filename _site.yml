@@ -1,0 +1,10 @@
+name: "hogehoge"
+navbar:
+  title: "page title"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "sub"
+      href: sub.html
+output: html_document
+output_dir: "docs"
